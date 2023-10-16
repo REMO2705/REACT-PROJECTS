@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 176,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Dienstag: ChatGPT kann nun sprechen, Tinder mit 500-Dollar-Monatsabo",
+            "description": "ChatGPT mit Sprach- und Bildfunktionen + Premium-Abo bei Tinder + Datenweitergabe an Schufa + Schluss mit Basic-HTML-Ansicht von Gmail + Drohne mit Rundumsicht",
+            "url": "https://www.heise.de/news/Dienstag-ChatGPT-kann-nun-sprechen-Tinder-mit-500-Dollar-Monatsabo-9316316.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/0/8/7/1/3/Wochentage-source-sans-788cbad913e85b3c.png",
+            "publishedAt": "2023-09-26T04:30:00Z",
+            "content": "Eine neue Version des KI-Chatbots ChatGPT von OpenAI erhält Sprach- und Bildfunktionen. Es lassen sich Gespräche führen oder Probleme anhand von Fotos lösen. Die Dating-Plattform Tinder bietet ihren … [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "You can now access Apple Music radio shows in the Apple Podcasts app with iOS 17",
+            "description": "With iOS 17, Apple has introduced a new interface for its Podcasts app, which now has a new Now Playing screen, as well as more search filters and a better Up Next experience. The company also announced that third-party apps can now connect an App Store subsc…",
+            "url": "https://9to5mac.com/2023/09/25/apple-music-radio-shows-podcasts/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/Apple-Music-Radio-Podcasts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-09-26T00:52:18Z",
+            "content": "With iOS 17, Apple has introduced a new interface for its Podcasts app, which now has a new Now Playing screen, as well as more search filters and a better Up Next experience. The company also announ… [+1786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple considered using GPS to control Adaptive Audio levels in AirPods Pro",
+            "description": "As iOS 17 is now available, Apple has also released a firmware update for the second-generation AirPods Pro that brings some new features, including Adaptive Audio. The feature combines both Transparency and Noise Cancellation modes together and balances betw…",
+            "url": "https://9to5mac.com/2023/09/25/apple-gps-adaptive-audio-airpods/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/turn-on-airpods-pro-adaptive-audio.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-09-26T03:41:15Z",
+            "content": "As iOS 17 is now available, Apple has also released a firmware update for the second-generation AirPods Pro that brings some new features, including Adaptive Audio. The feature combines both Transpar… [+3211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple pens memo to retail teams on how to manage FineWoven complaints: ‘A luxurious microtwill’",
+            "description": "Apple’s new FineWoven cases for iPhone 15 are looking like a surefire flop so far. Now, in response to the blowback, Apple has sent a new memo to its retail employees with guidance on how to address customer questions on things like FineWoven’s durability, ma…",
+            "url": "https://9to5mac.com/2023/09/25/iphone-15-finewoven-complaints-retail-stores/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/finewoven-apple-stores.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-09-26T02:17:33Z",
+            "content": "Apple’s new FineWoven cases for iPhone 15 are looking like a surefire flop so far. Now, in response to the blowback, Apple has sent a new memo to its retail employees with guidance on how to address … [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Apple Music radio shows & narrated News+ articles now available in Podcasts app",
+            "description": "Customers with active Apple Music and Apple News+ subscriptions now have access to exclusive, premium content within Apple Podcasts.Podcasts app includes News+ and Apple Music contentApple revealed updates to many of its services during WWDC 2023 that are slo…",
+            "url": "https://appleinsider.com/articles/23/09/26/apple-music-radio-shows-narrated-news-articles-now-available-in-podcasts-app",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56522-114825-IMG_3503-xl.jpg",
+            "publishedAt": "2023-09-26T03:04:50Z",
+            "content": "Podcasts app includes News+ and Apple Music content\r\nCustomers with active Apple Music and Apple News+ subscriptions now have access to exclusive, premium content within Apple Podcasts.\r\nApple reveal… [+1824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Customer FineWoven complaints lead to threadbare response from Apple",
+            "description": "An internal memo from Apple to retail employees offers little help regarding iPhone FineWoven case material complaints over durability and build quality.Apple's FineWoven caseApple has moved away from leather products in favor of a more sustainable FineWoven …",
+            "url": "https://appleinsider.com/articles/23/09/26/customer-finewoven-complaints-lead-to-threadbare-response-from-apple",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56523-114827-IMG_3509-xl.jpg",
+            "publishedAt": "2023-09-26T03:32:01Z",
+            "content": "Apple's FineWoven case\r\nAn internal memo from Apple to retail employees offers little help regarding iPhone FineWoven case material complaints over durability and build quality.\r\nApple has moved away… [+1343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Michael Stroup)",
+            "title": "14 top Amazon deals on Apple gear offer up to $550 in savings",
+            "description": "It's now officially fall, and as days become cooler, it's time to think about how you'll keep yourself and the kids entertained. Luckily, Amazon has huge discounts on Apple products, including savings on the latest releases.Amazon's best deals for the week of…",
+            "url": "https://appleinsider.com/articles/23/09/26/14-top-amazon-deals-on-apple-gear-offer-up-to-550-in-savings",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56506-114793-Untitled-design-(63)-xl.jpg",
+            "publishedAt": "2023-09-26T02:34:04Z",
+            "content": "Amazon's best deals for the week of September 25th. \r\nIt's now officially fall, and as days become cooler, it's time to think about how you'll keep yourself and the kids entertained. Luckily, Amazon … [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "小暮ひさのり",
+            "title": "【iPhone 15 Pro用】「3,000円以下クリアケース」のちがいをチェックしてみた",
+            "description": "Photo:小暮ひさのりどのケースを選べば良いんだ！って多分みんな頭を抱えていると思うの。だって、僕がそうだったから…。そうなのです。この季節になると、iPhoneどれを買おうか？からのiPhoneのケースどうしようか…。という悩みが連鎖的に起こるわけで、ケース選びってホント難しいですよね。僕も毎年悩んでいて、今年なんて気がついたら同じようなケースを3つもポチってしまいました。なのでレビューします",
+            "url": "https://www.gizmodo.jp/2023/09/iphone-15-pro-cases-sweticheasy-spigen-simplism.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/09/25/2023-09-25kek00.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-09-26T03:00:00Z",
+            "content": "iPhone iPhone\r\n3\r\nPhoto: \r\nSwitchEasy1,780\r\nSpigenMagSafe2,999\r\nSimplismMagSafe1,980\r\n2MagSafe \r\n1,000\r\n8g\r\nPhoto: \r\niPhone 15 ProSwitchEasyiPhone 15 Pro\r\nPP8g\r\niPhone 15 Pro\r\nMagSafe\r\niPhone 15 Pro … [+450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Playpcesor.com"
+            },
+            "author": "Esor Huang",
+            "title": "父母如何用 ChatGPT 設計孩子的英文單字考卷、會話測驗學習單？",
+            "description": "無論你是學校的老師、學生的家教，抑或是只是想陪伴孩子一起學習的父母家長，在複習功課的過程中，如果可以有一些「教材」的輔助 ，可以更加事半功倍，練習過程會更有趣，也可以在孩子嘗試解答的過程中更有效的驗證知識。所以我以前也在電腦玩物上介紹過不少免費下載這些「教材」的網站（例如：）。...",
+            "url": "https://www.playpcesor.com/2023/09/ChatGPT-Quiz.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEi14c_Q-Oph3An9yxI2h2pn4r4L3HttJWozXIYrYiWXujuAFVto17TjkQzIRfvS4wZb7oD4hQsZsg2LuL8STgS095LniI8iEhmGzxMQ2OrAklQ8PHsD2NoayrbJYpvbT9cdP3TWF6vtl1b3-UuVD9r9WU1NlTIXhSXG6EiEOVfPu-70xFZPeot6Lg=w1200-h630-p-k-no-nu",
+            "publishedAt": "2023-09-26T05:16:00Z",
+            "content": "無論你是學校的老師、學生的家教，抑或是只是想陪伴孩子一起學習的父母家長，在複習功課的過程中，如果可以有一些「教材」的輔助，可以更加事半功倍，練習過程會更有趣，也可以在孩子嘗試解答的過程中更有效的驗證知識。所以我以前也在電腦玩物上介紹過不少免費下載這些「教材」的網站（例如：）。但是，孩子學習的內容有其特殊性，通用的教材不一定能針對個別需求，那麼有沒有可能利用「 ChatGPT 」來設計出獨一無二，… [+6816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "张大雄",
+            "title": "这家脑机接口公司，快马斯克一步",
+            "description": "科技最重要的一个特质是造福人类#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1563324",
+            "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2023/09/3-7.jpeg",
+            "publishedAt": "2023-09-26T01:41:31Z",
+            "content": "Synchron 2012 Synchron CEO Tom Oxley \r\n Synchron Stentrode Stentrode \r\n Apple Watch \r\nStentrode Stentrode Stentrode \r\nStentrode Stentrode \r\nStentrode 16 Apple Watch \r\nTom Oxley Stentrode 16 Tom Oxley… [+104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Jade Bryan",
+            "title": "Snapdragon 8 Gen 3 macht das Samsung Galaxy S24 zu einem Gaming-Boliden",
+            "description": "Der Snapdragon 8 Gen 3 von Qualcomm könnte dem Samsung Galaxy S24 einen großen Grafikschub verpassen. Kann er mit dem Apple A17 Pro mithalten?",
+            "url": "https://www.nextpit.de/snapdragon-8-gen-3-koennte-samsungs-galaxy-s24-sehr-schnell-machen",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Samsung_Galaxy_S23_Ultra/NextPit_Samsung_Galaxy_S23_Ultra_Display.jpg",
+            "publishedAt": "2023-09-26T05:00:00Z",
+            "content": "© nextpit\r\nDer Snapdragon 8 Gen 3 von Qualcomm wird voraussichtlich das Samsung Galaxy S24 im nächsten Jahr antreiben. Während das SoC in Bezug auf die Prozessoreinheit nicht so schnell ist wie der A… [+5764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Alexander Lee",
+            "title": "Listening to music from another planet: Is This The Metaverse? Podcast, episode 3",
+            "description": "In the third episode of Is This The Metaverse?, hosts Alexander Lee and Sara Patterson speak to a Roblox concert super-fan and interview a metaverse-native pop star to learn why — and how — live music is becoming one of the most compelling reasons for people …",
+            "url": "http://digiday.com/marketing/listening-to-music-from-another-planet-is-this-the-metaverse-podcast-episode-3/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/08/Digiday_meta_header.jpg",
+            "publishedAt": "2023-09-26T04:01:00Z",
+            "content": "This article is part of a special Digiday Podcast series that breaks down how people are translating their physical lives into virtual worlds and how brands and platforms are looking to make money fr… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": "marca",
+                "name": "Marca"
+            },
+            "author": "PABLO VILLA",
+            "title": "\"No entraba en ninguna quiniela que el récord del mundo se batiese así\"",
+            "description": "Para alguno habrá pasado desapercibido y se esté enterando ahora mismo, pero en Berlín se batió hace 48 horas un récord del mundo. La etíope Tigist Assefa desafió el crono y con un",
+            "url": "https://www.marca.com/radio/marca-daily/2023/09/26/651237ea268e3e3d6c8b458a.html",
+            "urlToImage": "https://phantom-marca.unidadeditorial.es/1432441e5fcf602653e419d5729a906e/crop/83x0/1093x674/f/jpg/assets/multimedia/imagenes/2023/09/26/16956909015611.jpg",
+            "publishedAt": "2023-09-26T04:03:52Z",
+            "content": "Para alguno habrá pasado desapercibido y se esté enterando ahora mismo, pero en Berlín se batió hace 48 horas un récord del mundo. La etíope Tigist Assefa desafió el crono y con un tiempo de 2 horas,… [+918 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Jacob Kienlen",
+            "title": "Black Friday 2023: What Deals and Sales to Expect This Year",
+            "description": "Black Friday deals will be here sooner than you think.",
+            "url": "https://www.ign.com/articles/black-friday-2023",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/09/25/black-friday-2023-1695672938062.jpg?width=1280",
+            "publishedAt": "2023-09-26T00:35:00Z",
+            "content": "We still have a few months until Black Friday deals start arriving, but if you're hoping to have as much money on holiday gifts as possible this year, now is the time to start preparing. Black Friday… [+11050 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "cesartechradar@gmail.com (Cesar Cadenas)",
+            "title": "iOS 17 is resetting some users' privacy settings – and Apple is looking into it",
+            "description": "A strange bug is affecting some iPhones running iOS 17 and it reactivates iPhone Analytics without first asking for consent",
+            "url": "https://www.techradar.com/phones/ios/ios-17-is-resetting-some-users-privacy-settings-and-apple-is-looking-into-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/P2rvPQfWzpc8EByBgBQfFY-1200-80.jpg",
+            "publishedAt": "2023-09-26T04:00:44Z",
+            "content": "If you’re running iOS 17 on your iPhone, double-check your privacy settings because they might have just changed without your permission.\r\nThis word of warning comes from Mysk\r\n, a pair of iOS develo… [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComputerBase"
+            },
+            "author": "Mahir Kulalic",
+            "title": "iPhone als Spielkonsole: Resident Evil Village erscheint am 30. Oktober für iOS",
+            "description": "Capcom hat zur Vorstellung des iPhone 15 Pro und iPhone 15 Pro Max angekündigt, die zwei neuesten Ableger der Resident-Evil-Reihe auf Apples Smartphone zu bringen. Nun folgt zumindest für Resident Evil Village (Test) das Erscheinungsdatum inklusive Preises.",
+            "url": "https://www.computerbase.de/2023-09/iphone-als-spielkonsole-resident-evil-village-erscheint-am-30-oktober-fuer-ios/",
+            "urlToImage": "https://pics.computerbase.de/1/0/9/4/2/7-6223750c860e4127/article-1280x720.dda6c126.jpg",
+            "publishedAt": "2023-09-26T06:02:00Z",
+            "content": "Capcom hat zur Vorstellung des iPhone 15 Pro und iPhone 15 Pro Max angekündigt, die zwei neuesten Ableger der Resident-Evil-Reihe auf Apples Smartphone zu bringen. Nun folgt zumindest für Resident Ev… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Con iOS 17 puoi accedere ai programmi radiofonici di Apple Music nell’app Podcast",
+            "description": "I programmi radiofonici di Apple Music sono ora disponibili nell'app\nLink all'articolo originale: Con iOS 17 puoi accedere ai programmi radiofonici di Apple Music nell’app Podcast",
+            "url": "https://www.iphoneitalia.com/814398/programmi-radiofonici-apple-music-podcast",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/app-apple-podcast.jpg",
+            "publishedAt": "2023-09-26T06:00:19Z",
+            "content": "Con iOS 17, Apple ha introdotto una nuova interfaccia per la sua app Podcast, che ora ha una schermata In riproduzione, oltre a più filtri di ricerca e una migliore esperienza Up Next. Apple ha inolt… [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Gli iPhone 16 avranno il “Capture Button”",
+            "description": "Dopo il tasto Azione aggiunto sugli iPhone 15 Pro, la gamma iPhone 16 potrebbe avere un nuovo pulsante. \nLink all'articolo originale: Gli iPhone 16 avranno il “Capture Button”",
+            "url": "https://www.iphoneitalia.com/814393/iphone-16-capture-button",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/09/iphone1-6-catpure-button.jpg",
+            "publishedAt": "2023-09-26T05:54:18Z",
+            "content": "La serie iPhone 16 potrebbe integrare un pulsante capacitivo aggiuntivo, noto internamente come “Capture Button”.\r\nNome in codice “Project Nova”, il pulsante sarà probabilmente uno dei principali pun… [+3017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Rodrigo Mozelli",
+            "title": "Apple: AirPods Pro 2 traz modos de audição aprimorado e conectividade com Vision Pro",
+            "description": "Durante evento da maçã, dispositivo foi mencionado de forma passiva\nO post Apple: AirPods Pro 2 traz modos de audição aprimorado e conectividade com Vision Pro apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2023/09/26//apple-airpods-pro-2-traz-modos-de-audicao-aprimorado-e-conectividade-com-vision-pro/",
+            "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/09/Apple-AirPods-Pro-2nd-gen-USB-C-connection-demo-230912-1024x576.webp",
+            "publishedAt": "2023-09-26T04:59:51Z",
+            "content": "Durante o evento da Apple, que aconteceu recentemente, a empresa anunciou o lanÃ§amento dos aguardados iPhone 15 e Apple Watch Series 9. No entanto, os AirPods, um dos produtos mais populares da marc… [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "bbc.co.uk",
+            "title": "Spotify will not ban AI-made music, says boss",
+            "description": "While AI is not banned in all forms on the platform the company does not allow its content to be used to train a machine learning or AI model, the likes of which can then produce music. Neither Drake nor The Weeknd were aware of cloned versions of their voice…",
+            "url": "https://biztoc.com/x/b44bf67fc58a199c",
+            "urlToImage": "https://c.biztoc.com/p/b44bf67fc58a199c/s.webp",
+            "publishedAt": "2023-09-26T00:10:06Z",
+            "content": "While AI is not banned in all forms on the platform the company does not allow its content to be used to train a machine learning or AI model, the likes of which can then produce music.Neither Drake … [+281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Семейство Apple iPhone 15 стало более капризным с точки зрения взаимозаменяемости компонентов при ремонте",
+            "description": "С одной стороны, в июне этого года компания Apple включила семейство смартфонов iPhone 14 в программу самостоятельного ремонта и теперь предлагает всем желающим оригинальные запасные части. С другой стороны, вскрытие iPhone 15 Pro Max и прочих смартфонов Appl…",
+            "url": "https://3dnews.ru/1093561/semeystvo-apple-iphone-15-stalo-bolee-kapriznim-s-tochki-zreniya-vzaimozamenyaemosti-komponentov-pri-remonte",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/09/26/1093561/ifixit_01.jpg",
+            "publishedAt": "2023-09-26T04:18:00Z",
+            "content": ", Apple iPhone 14 . , iPhone 15 Pro Max Apple , «» , .\r\n: iFixit\r\niFixit Apple iPhone 15, , — iPhone 15 Pro iPhone 15 Pro Max, , — iPhone 15 iPhone 15 Plus, . , , . , .\r\n iFixit , iPhone 15 Pro 5G- Q… [+243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Paul Hill",
+            "title": "US PC shipment declines slowed in the second quarter",
+            "description": "PC shipments in the United States have declined by just 6.0% in the second quarter, according to Canalys. Education's demand for Chromebooks has helped to bolster numbers. Apple saw strong figures. Read more...",
+            "url": "https://www.neowin.net/news/us-pc-shipment-declines-slowed-in-the-second-quarter/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2022/03/1648451194_surface_family_story.jpg",
+            "publishedAt": "2023-09-26T03:40:01Z",
+            "content": "The analyst firm Canalys has reported that US PC shipments declined more slowly during the second quarter compared to the same period the year before. The category, which includes desktops, notebooks… [+2161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Sushmita Sen",
+            "title": "Invasion Season 2 Episode 8 Streaming: How to Watch & Stream Online",
+            "description": "Look no further if you are wondering how to watch and stream Invasion Season 2 Episode 8 online. The sci-fi adventure action series follows people on Earth fighting against extraterrestrial beings. Aliens attacked Earth in season 1, and now in the second inst…",
+            "url": "https://www.comingsoon.net/guides/news/1349341-invasion-season-2-episode-8-streaming-how-to-watch-stream-online",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Invasion-Season-2-Episode-8.jpg?resize=1200,630",
+            "publishedAt": "2023-09-26T05:13:44Z",
+            "content": "Look no further if you are wondering how to watch and stream InvasionSeason 2 Episode 8 online. The sci-fi adventure action series follows people on Earth fighting against extraterrestrial beings. Al… [+1682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Sushmita Sen",
+            "title": "The Morning Show Season 3 Episode 6 Streaming: How to Watch & Stream Online",
+            "description": "Look no further if you are wondering how to watch and stream The Morning Show Season 3 Episode 6 online. The drama series tells the story of the culture that goes behind making a network broadcast morning news program a success. From controversies to unexpect…",
+            "url": "https://www.comingsoon.net/guides/news/1349365-the-morning-show-season-3-episode-6-streaming-how-to-watch-stream-online",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/The-Morning-Show-Season-3-Episode-6.jpg?resize=1200,630",
+            "publishedAt": "2023-09-26T05:19:54Z",
+            "content": "Look no further if you are wondering how to watch and stream The Morning Show Season 3 Episode 6 online. The drama series tells the story of the culture that goes behind making a network broadcast mo… [+1697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netafull.net"
+            },
+            "author": "コグレマサト",
+            "title": "Amazon、10月14・15日に開催する「プライム感謝祭」の一部商品を公開 〜Amazonデバイスの他、iPad Air、Apple Watch、AirPods、iPad miniなども",
+            "description": "Amazonが、日本では初となる「プライム感謝祭」を、2023年10月14日0時から10月15日23時59分まで開催しますが、セール対象となる一部商品を公開しました。 「プライム感謝祭」を一部公開 定番のAmazonデバ...\n投稿 Amazon、10月14・15日に開催する「プライム感謝祭」の一部商品を公開 〜Amazonデバイスの他、iPad Air、Apple Watch、AirPods、iPad miniなども は ネタフル に最初に表示されました。",
+            "url": "https://netafull.net/amazon-sale/0137969.html",
+            "urlToImage": "https://netafull.net/wp-content/uploads/2023/09/amazon-prime-fes.jpg",
+            "publishedAt": "2023-09-26T00:00:00Z",
+            "content": "Amazon20231014010152359\r\nAmazoniPad AirApple WatchAirPodsiPad miniApple\r\n12%Amazon12%\r\nAmazon Music Unlimited410/153,920\r\nKindle Unlimited39920010/15"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Everything-everywhere.com"
+            },
+            "author": "Gary Arndt",
+            "title": "Introduction to Rocks and Minerals",
+            "description": "Podcast Transcript Under your feet and all around you are rocks and minerals.  Many times in your life, you have probably picked up a rock and looked at it. You might have climbed over rocks and mountains and never given a single thought as to what they consi…",
+            "url": "https://everything-everywhere.com/introduction-to-rocks-and-minerals/",
+            "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-MGqD5HD/0/8658fc8b/L/1176episodeart-L.jpg",
+            "publishedAt": "2023-09-26T00:35:43Z",
+            "content": "Subscribe Apple | Google | Spotify | Amazon | Player.FM | TuneInCastbox | Podurama | Podcast Republic | RSS | Patreon\r\nUnder your feet and all around you are rocks and minerals. \r\nMany times in your … [+12547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (Trần Hoàng Long.), Trần Hoàng Long.",
+            "title": "Mổ bụng Apple Watch Ultra 2 và Series 9: Không có phần cứng mới nào cho tính năng Double Tap",
+            "description": "iFixit tiến hành mổ bụng cùng lúc Apple Watch Ultra 2 và Series 9 để tìm kiếm xem có phần cứng đặc biệt nào được Apple trang bị riêng dành cho tính năng Chạm hai lần (Double Tap) mới hay không. Video mình để ở cuối bài…",
+            "url": "https://tinhte.vn/thread/mo-bung-apple-watch-ultra-2-va-series-9-khong-co-phan-cung-moi-nao-cho-tinh-nang-double-tap.3720268/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8131190_tinhte-apple-watch-ultra-2-teardown-2.jpg",
+            "publishedAt": "2023-09-26T05:57:29Z",
+            "content": "Sau ó là h nhit g keo.Tip tc h nhit tháo mt kính.\r\ngóc này có th thy c mt kính sapphire rt dày.\r\nTh kim tra bn mt kính sapphire.\r\ncng t 8 - 9H.\r\nTip tc tháo c ly cc pin và motor haptic ra."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "The Daily Beast",
+            "title": "Right-Wingers in Congress Won’t Win Their Wacky Shutdown Fight",
+            "description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty\r\nListen to this full episode of The New Abnormal on Apple Podcasts, Spotify, Amazon and Stitcher.The idea that Congress will pass a budget on time and that the federal government will continue to ope…",
+            "url": "https://www.thedailybeast.com/right-wingers-in-congress-wont-win-their-wacky-shutdown-fight",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1695692767/230925-TNA-govt-shutdown-tease_nxmutx",
+            "publishedAt": "2023-09-26T05:20:44Z",
+            "content": "Listen to this full episode of The New Abnormal on Apple Podcasts, Spotify, Amazon and Stitcher.\r\nThe idea that Congress will pass a budget on time and that the federal government will continue to op… [+1293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "｢iPhone 16｣シリーズは新たにタッチ式のキャプチャボタンを搭載か ｰ ベースモデルはリアカメラの配置変更やProモデルは画面サイズ拡大等の情報も",
+            "description": "先日に「iPhone 15」シリーズが発売されたばかりですが、来年秋に発売される「iPhone 16」に関する情報が早くも出て来ました。 MacRumorsによると、「iPhone 16」シリーズにはApple内部で「Capture But",
+            "url": "https://taisy0.com/2023/09/26/177450.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2023/09/th_iPhone-16-Side-2-Feature.jpg",
+            "publishedAt": "2023-09-26T00:31:31Z",
+            "content": "iPhone 15iPhone 16\r\nMacRumorsiPhone 16AppleCapture Button ()Project NovaiPhone 161\r\n5G mmWave5G mmWave\r\nProiPhone 16iPhone 16 PluseSIMSIM\r\nApple\r\niPhone 15\r\niPhone 16iPhone 12ProiPhone 16 Pro6.16.3iP… [+20 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Pioggia di critiche per le custodie in tessuto FineWoven di Apple",
+            "description": "Le custodie per iPhone 15 in tessuto FineWoven continuano a essere pesantemente criticate; secondo molti utenti, si graffiano e macchiano troppo facilmente.\n- su macitynet.it Pioggia di critiche per le custodie in tessuto FineWoven di Apple",
+            "url": "https://www.macitynet.it/pioggia-di-critiche-per-le-custodie-in-tessuto-finewoven/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/09/custodieFineWoven.jpg",
+            "publishedAt": "2023-09-26T05:29:02Z",
+            "content": "Le custodie per iPhone 15 in tessuto FineWoven sono state pesantemente criticate sin da quando sono state presentate: molte delle persone che hanno avuto modo di provarle lamentano che il tessuto est… [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Frena il declino del mercato dei PC, bene Mac e iPad",
+            "description": "Le spedizioni di PC (desktop, notebook e workstation) sono diminuite del 6% anno su anno. Apple in contotendenza, con ottimi numeri rispetto allo stesso periodo dello scorso anno.\n- su macitynet.it Frena il declino del mercato dei PC, bene Mac e iPad",
+            "url": "https://www.macitynet.it/in-declino-il-mercato-spedizioni-pc-bene-mac-e-ipad/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/genericoMacbook.jpg",
+            "publishedAt": "2023-09-26T05:59:08Z",
+            "content": "Secondo dati rivelati dal gruppo di ricerca Canalys, le spedizioni di PC (desktop, notebook e workstation) sono diminuite del 6% anno su anno, arrivando a 18,2 milioni di unità nel secondo trimestre … [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall: Key Inflation Data Looms As Yields Jump; Tesla Stock In Focus Ahead Of Deliveries",
+            "description": "Dow Jones futures: Key inflation data looms this week, while Tesla stock is in focus ahead of the EV giant's Q3 deliveries.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-inflation-data-looms-tesla-stock-in-focus-ahead-of-deliveries/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-WallStreet-03-adobe.jpg",
+            "publishedAt": "2023-09-26T01:01:35Z",
+            "content": "Dow Jones futures were lower ahead of Tuesday's open, along with S&amp;P 500 futures and Nasdaq 100 futures, in overnight trade. Tesla stock snapped a losing streak Monday, as Wall Street prepares fo… [+6807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macotakara.jp"
+            },
+            "author": "danbo",
+            "title": "Macの整備済商品 商品追加（2023/09/26）",
+            "description": "<!-- テキスト -->\n\nApple.com/jpが、Apple認定の整備済製品で、Mac整備済み製品として、商品の追加を行っています。\n\n30,000円以上購入でオリコApple ショッピングローンが24回払いまで金利０%で利用出来ます。\n\nペイディあと払いプランApple専用は利用できません。\n\n整備品情報はメールマガジンでもお知らせしています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n<ul>\n<li>Mac…",
+            "url": "https://www.macotakara.jp/sale/entry-45391.html",
+            "urlToImage": "https://www.macotakara.jp/archives/001/201611/a739ec06c595b9a70e032103cb8a598e57bcf91221b322c10495d8f9f3656486.jpg",
+            "publishedAt": "2023-09-26T02:08:10Z",
+            "content": "Apple.com/jpAppleMac\r\n30,000Apple 24%\r\nApple\r\n<ul><li>Mac Studio (2022)/M1 Ultra/20Core CPU/64CoreGPU/128GB/8TB SSD913,800</li><li>Mac Studio (2022)/M1 Ultra/20Core CPU/64CoreGPU/128GB/2TB SSD717,800… [+3788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tweakers.net"
+            },
+            "author": "Arnoud Wokke",
+            "title": "Apple: AirPods Pro met USB-C werken met Vision Pro via 5GHz-protocol",
+            "description": "Apple heeft voor het eerst verteld waarom alleen de AirPods Pro met USB-C geschikt zijn voor lossless audio op de aankomende Vision Pro-VR-headset. De nieuwe versie van de AirPods kan communiceren via een 5GHz-verbinding.",
+            "url": "https://tweakers.net/nieuws/213946/apple-airpods-pro-met-usb-c-werken-met-vision-pro-via-5ghz-protocol.html",
+            "urlToImage": "https://tweakers.net/i/LoLK6p-vtJAcdsG9IWagvVfsZ9c=/134x134/filters:strip_icc():strip_exif()/i/2005816114.jpeg?f=meta",
+            "publishedAt": "2023-09-26T05:38:00Z",
+            "content": "Apple heeft voor het eerst verteld waarom alleen de AirPods Pro met USB-C geschikt zijn voor lossless audio op de aankomende Vision Pro-VR-headset. De nieuwe versie van de AirPods kan communiceren vi… [+895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Expansion.com"
+            },
+            "author": "expansion.com",
+            "title": "La Primera de Expansión sobre los impuestos a las fortunas en España, BBVA, fondos soberanos y Goldman",
+            "description": "En cuanto a la agenda del día, estará marcada por el debate de investidura del candidato y ganador de las últimas elecciones Alberto Núñez Feijóo, que comienza hoy a las 12 horas e",
+            "url": "https://www.expansion.com/podcasts/2023/09/26/651266b4e5fdeab8298b4639.html",
+            "urlToImage": "https://phantom-expansion.unidadeditorial.es/983a09619c8c950d234a1985cc4a227b/f/jpg/assets/multimedia/imagenes/2023/09/26/16957046121124.jpg",
+            "publishedAt": "2023-09-26T05:49:10Z",
+            "content": "Este martes les contamos que el pulso entre Hacienda y las CCAA cambia el mapa de los impuestos a la riqueza en nuestro país. Juande Portillo, periodista especializado en fiscalidad de EXPANSIÓN, ana… [+801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AdExchanger"
+            },
+            "author": "AdExchanger",
+            "title": "Bringing Big Tech To Heel By Having Small Tech; Was DEI A ZIRP?",
+            "description": "Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here. Trade And Trade-Offs Tech regulation proponents in the US Senate traveled to Belgium last month, where they discussed their EU counterparts’ relative success “bringing Big Tech to h…",
+            "url": "http://www.adexchanger.com/daily-news-roundup/tuesday-26092023/",
+            "urlToImage": "https://www.adexchanger.com/wp-content/uploads/2018/05/longlivetheking-e1643906297664.jpg",
+            "publishedAt": "2023-09-26T04:03:19Z",
+            "content": "Heres todays AdExchanger.com news round-up Want it by email? Sign up here.\r\nTrade And Trade-Offs\r\nTech regulation proponents in the US Senate traveled to Belgium last month, where they discussed thei… [+4077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iphone-ticker.de › iPhone-News seit 2007"
+            },
+            "author": "chris",
+            "title": "iOS-Anredeformen und Kontaktpronomen über die Einstellungen festlegen",
+            "description": "Wenn ihr zusammen mit iOS 17 ein neues iPhone in Betrieb genommen habt, ist euch bei der Installation vielleicht aufgefallen, dass ihr eine persönliche Anrede vorgeben könnt. Genau wie bei dem für heute angekündigten macOS Sonoma können auch iOS-Nutzer vorab …",
+            "url": "https://www.iphone-ticker.de/ios-anredeformen-und-kontaktpronomen-ueber-die-einstellungen-festlegen-222186/",
+            "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2023/09/ios-anredeform-feature.jpg",
+            "publishedAt": "2023-09-26T05:38:53Z",
+            "content": "Wenn ihr zusammen mit iOS 17 ein neues iPhone in Betrieb genommen habt, ist euch bei der Installation vielleicht aufgefallen, dass ihr eine persönliche Anrede vorgeben könnt. Genau wie bei dem für he… [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Deutschland und Großbritannien wollen bei grünem Wasserstoff kooperieren",
+            "description": "Wasserstoff soll eine zentrale Rolle beim Wandel zu einem klimagerechten Umbau der Wirtschaft spielen, zum Beispiel in der Stahlindustrie. Dazu planen Deutschland und Großbritannien eine engere Zusammenarbeit.",
+            "url": "https://www.welt.de/wirtschaft/article247667864/Erneuerbare-Energie-Deutschland-und-Grossbritannien-wollen-bei-gruenem-Wasserstoff-kooperieren.html",
+            "urlToImage": "https://img.welt.de/img/wirtschaft/mobile247667866/2381355757-ci16x9-w1200/Wasserstoffprojekte-zur-Waermeversorgung-von-Gebaeuden-laufen-an.jpg",
+            "publishedAt": "2023-09-26T02:33:10Z",
+            "content": "Deutschland und Großbritannien wollen beim Ausbau von sogenanntem grünem Wasserstoff enger zusammenarbeiten. Dazu ist am Dienstag in Berlin eine Wasserstoffkonferenz geplant. Großbritannien hat berei… [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "iPadの2018年モデルが17,600円、Aランク中古品がQualitでセール",
+            "description": "2018年に発売されたApple「第6世代 iPad Wi-Fi(MR7G2J/A)」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。",
+            "url": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/1533351.html",
+            "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/1533/351/asale1.jpg",
+            "publishedAt": "2023-09-26T03:00:00Z",
+            "content": "2018Apple6 iPad Wi-Fi(MR7G2J/A)Qualit\r\n ()A32GB17,60012 \r\n 2,048×1,5369.7 RetinaApple A10 FusionLightning-USB"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Guide"
+            },
+            "author": "David Douïeb",
+            "title": "France 2 et France en 4K, ChatGPT reconnaît enfin les images, c’est le récap’",
+            "description": "Au menu de ce récap', la 4K va faire une arrivée fracassante sur France 2 et France 3, utiliser un câble USB-C Android risque de faire surchauffer l'iPhone 15, ChatGPT devient plus complet grâce à deux nouvelles options pratiques. \nL’article France 2 et Franc…",
+            "url": "https://www.tomsguide.fr/france-2-et-france-en-4k-chatgpt-reconnait-enfin-les-images-cest-le-recap/",
+            "urlToImage": "https://www.tomsguide.fr/content/uploads/sites/2/2023/09/france-2-france-3-4k.jpg",
+            "publishedAt": "2023-09-26T05:00:00Z",
+            "content": "Au menu de ce récap’, la 4K va faire une arrivée fracassante sur France 2 et France 3, utiliser un câble USB-C Android risque de faire surchauffer l’iPhone 15, ChatGPT devient plus complet grâce à de… [+1742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ifun.de › Apple-News seit 2001"
+            },
+            "author": "Chris",
+            "title": "GPGTools-Entwickler warnen vor Update auf macOS Sonoma",
+            "description": "Die Entwickler von GPGTools warnen davor, das für heute angekündigte Update auf mac14 OS Sonoma zu installieren, sofern man die Verschlüsselungssoftware für E-Mails weiterhin verwenden will. Aufgrund der mit dem Update des Betriebssystems verbundenen Umstellu…",
+            "url": "https://www.ifun.de/gpgtools-entwickler-warnen-vor-update-auf-macos-sonoma-219239/",
+            "urlToImage": "https://images.ifun.de/wp-content/uploads/2023/09/mail-vs-gpgtools-feature.jpg",
+            "publishedAt": "2023-09-26T04:54:17Z",
+            "content": "Die Entwickler von GPGTools warnen davor, das für heute angekündigte Update auf mac14 OS Sonoma zu installieren, sofern man die Verschlüsselungssoftware für E-Mails weiterhin verwenden will. Aufgrund… [+2476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "邱 倢芯",
+            "title": "蘋果捨皮革採 FineWoven 材質，卻被外媒評「2023 年最失敗產品」",
+            "description": "蘋果在今年 iPhone 15 系列新機發表會上，不斷地強調自家公司多麼致力於環境保護，且還宣布推出更環保的護殼材質「精細織紋」（FineWoven），只是 FineWoven 似乎不太受消費者們待見，頻頻因 FineWoven 材質容易污損而發出批評。現在有多家外媒認為，蘋果一開始為了實現碳中和而...",
+            "url": "https://ccc.technews.tw/2023/09/26/apple-finewoven/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/09/21222046/127.jpg",
+            "publishedAt": "2023-09-26T02:44:59Z",
+            "content": "iPhone 15 FineWoven FineWoven FineWoven FineWoven 2023 \r\nFineWoven FineWoven \r\nFineWoven 68% FineWoven iPhone Apple Watch \r\n FineWoven FineWoven iPhone 15 FineWoven \r\n MacStories Federico Viticci  Fi… [+158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.com"
+            },
+            "author": "Jade Bryan",
+            "title": "Snapdragon 8 Gen 3 Could Make Samsung's Galaxy S24 a Gaming King",
+            "description": "Qualcomm's Snapdragon 8 Gen 3 chipset could give the Samsung Galaxy S24 a major graphics boosts. This is how better it is over iPhone 15 Pro's A17 Pro.",
+            "url": "https://www.nextpit.com/snapdragon-8-gen-3-gpu-graphics-benchmark-galaxy-s24-beat-iphone-15",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Samsung_Galaxy_S23_Ultra/NextPit_Samsung_Galaxy_S23_Ultra_Display.jpg",
+            "publishedAt": "2023-09-26T03:50:20Z",
+            "content": "© nextpit\r\nQualcomm's Snapdragon 8 Gen 3 is expected to power next year's Samsung Galaxy S24 line. While the chip isn't performing as fast as the iPhone 15 Pro's A17 Pro (review) in terms of the proc… [+3141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "jin@ixbt.com (Jin)",
+            "title": "«Автотор» официально назвал цену «российского» кроссовера Kaiyi X3 Pro",
+            "description": "Субкомпактный кроссовер Kaiyi X3 Pro действительно будет стоить 2,49 млн рублей, как и сообщал дилер. Информацию подтвердили на «Автоторе», где налажена сборка автомобилей. Габариты кроссовера составляют 4400 х 1831 х 1653 мм при колесной базе 2632 мм. Клирес…",
+            "url": "https://www.ixbt.com/news/2023/09/26/kaiyi-x3-pro.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/8/2/x3-pro-front_large.png",
+            "publishedAt": "2023-09-26T05:15:00Z",
+            "content": "Kaiyi X3 Pro 2,49 , . «», .\r\n 4400 1831 1653   2632 . 158 . 1,5- 147 .., Chery, .\r\nKaiyi X3 Pro Luxury, , , , -, , , , , , , .\r\n 10,3- , Android Auto Apple CarPlay. ESP."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SoraNews24"
+            },
+            "author": "Shannon",
+            "title": "What happens when you mix together all the jelly drinks from the convenience store? 【SoraKitchen】",
+            "description": "A stroke of genius, or just a lot of sugar and gelatin? Among popular Japanese convenience store snacks like seasonal sweets, onigiri, and bento are jelly drinks. These semi-solid packets boast possible benefits such as iron supplements, a boost in energy, or…",
+            "url": "https://soranews24.com/2023/09/26/what-happens-when-you-mix-together-all-the-jelly-drinks-from-the-convenience-store-%e3%80%90sorakitchen%e3%80%91/",
+            "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2023/09/a_iz01-1.jpg?w=1000&h=525&crop=1",
+            "publishedAt": "2023-09-26T05:00:13Z",
+            "content": "A stroke of genius, or just a lot of sugar and gelatin?\r\nAmong popular Japanese convenience store snacks like seasonal sweets, onigiri, and bento are jelly drinks. These semi-solid packets boast poss… [+2136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "jin@ixbt.com (Jin)",
+            "title": "Время ожидания iPhone 15 выросло вдвое по сравнению с iPhone 14, а iPhone 15 Pro Max установил рекорд. Данные Counterpoint Research по рынку Китая",
+            "description": "Агентство по исследованию рынка Counterpoint Research опубликовало информацию о том, что в Китае, крупнейшем зарубежном рынке Apple, время ожидания поставок iPhone 15 и iPhone 15 Pro Max оказалось большим, чем у смартфонов предыдущего поколения. В частности, …",
+            "url": "https://www.ixbt.com/news/2023/09/26/iphone-15-iphone-14-iphone-15-pro-max-counterpoint-research.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/8/2/YSXJOQLVH5LETJAV2OZHT4N2TA_large.jpg",
+            "publishedAt": "2023-09-26T04:28:00Z",
+            "content": "Counterpoint Research , , Apple, iPhone 15 iPhone 15 Pro Max , .\r\n , iPhone 15 iPhone 14. iPhone 15 Pro Max 9 , iPhone 14 Pro Max, Apple . , .\r\n iPhone 15 Plus, iPhone 15 Pro , 2 , .\r\n : « , iPhone 1… [+60 chars]"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT en Español\n , RT en Español",
+            "title": "Regulador ruso: la radiación de todos los teléfonos móviles es peligrosa",
+            "description": "\"Es importante seguir las normas de seguridad cuando se habla por teléfono móvil\", señalaron desde la agencia.",
+            "url": "https://actualidad.rt.com/actualidad/481149-regulador-sanitario-ruso-radiacion-telefonos",
+            "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.09/article/6512375a59bf5b44231f2b52.jpg",
+            "publishedAt": "2023-09-26T02:32:59Z",
+            "content": "Todos los teléfonos móviles representan un peligro para la salud, particularmente de los niños, debido a las radiaciones electromagnéticas. Así lo declaró al portal Gazeta.ru el Servicio Federal de R… [+1463 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 Watch Series 8 GPS款 智能手表 41mm 2549元（需用券）",
+            "description": "Apple 苹果 Watch Series 8 GPS款 智能手表 41mm 2549元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/91473184/",
+            "urlToImage": "https://y.zdmimg.com/202209/08/6319673659ce47798.jpg_d250.jpg",
+            "publishedAt": "2023-09-26T00:06:10Z",
+            "content": "Apple Watch Series 8 Apple S8 iOS 16 watch OS 9 \r\nApple Watch Series 83256G\r\nApple Watch Series 8 3618"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 快充套装版 8088元（需用券）",
+            "description": "Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 快充套装版 8088元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/91473975/",
+            "urlToImage": "https://qny.smzdm.com/202307/11/64ad283dc58de4227.jpg_d250.jpg",
+            "publishedAt": "2023-09-26T00:06:10Z",
+            "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 AirPods 3 MagSafe充电盒版 半入耳式真无线蓝牙耳机 白色 1199元（需用券）",
+            "description": "京东此款目前活动售价1299元，下单领取满800减100元优惠券，实付低至1199元，近期好价。叠加优惠券：满800减100元",
+            "url": "https://www.smzdm.com/p/91465004/",
+            "urlToImage": "https://qny.smzdm.com/202110/19/616dbedada8518907.jpg_d250.jpg",
+            "publishedAt": "2023-09-26T00:55:41Z",
+            "content": "AirPods 3D AirPods Apple Apple Music \r\n AirPods  IPX4 Apple H1 AirPods \r\n 6 4 5 AirPods 1 4 30 MagSafe"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ozbargain.com.au"
+            },
+            "author": "Digitalsin",
+            "title": "iPad Wi-Fi 64GB (9th Gen) $439 @ Costco (membership required)",
+            "description": "I don't think it's the lowest is ever been but seems like a good price\n\nPowerful. Easy to use. Versatile. The new iPad has a beautiful 10.2-inch Retina display1, the powerful A13 Bionic chip, an Ultra Wide front camera with Centre Stage, and support for Apple…",
+            "url": "https://www.ozbargain.com.au/node/802002",
+            "urlToImage": "https://files.ozbargain.com.au/n/02/802002x.jpg?h=82e1feb3",
+            "publishedAt": "2023-09-26T05:16:59Z",
+            "content": "I don't think it's the lowest is ever been but seems like a good price\r\nPowerful. Easy to use. Versatile. The new iPad has a beautiful 10.2-inch Retina display1, the powerful A13 Bionic chip, an Ultr… [+156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mobiFlip.de"
+            },
+            "author": "Oliver Schwuchow",
+            "title": "Kritik an Feingewebe-Case: Apple schickt Memo an Store-Mitarbeiter",
+            "description": "Apple trennt sich komplett von Leder und legt den Fokus mehr auf Umweltschutz. Passend dazu gibt es einen umweltfreundlicheren Ersatz für Leder: FineWoven, oder wie es bei uns heißt, Feingewebe. […]",
+            "url": "https://www.mobiflip.de/shortnews/kritik-an-feingewebe-case-apple-schickt-memo-an-store-mitarbeiter/",
+            "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/09/apple-feingewebe-header.jpg",
+            "publishedAt": "2023-09-26T04:10:38Z",
+            "content": "Apple trennt sich komplett von Leder und legt den Fokus mehr auf Umweltschutz. Passend dazu gibt es einen umweltfreundlicheren Ersatz für Leder: FineWoven, oder wie es bei uns heißt, Feingewebe. Doch… [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mobiFlip.de"
+            },
+            "author": "Oliver Schwuchow",
+            "title": "Apple plant wohl eigenen Chip und Knopf für das iPhone 16",
+            "description": "Apple könnte sich kommendes Jahr für kapazitive Knöpfe bei den Pro-Modellen entscheiden, die mal eine Weile für das iPhone 15 Pro im Raum standen. Doch auch das normale iPhone 16 […]",
+            "url": "https://www.mobiflip.de/shortnews/apple-iphone-16-a18-chip-knopf-leak/",
+            "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/09/apple-iphone-16-farben-store-header.jpg",
+            "publishedAt": "2023-09-26T05:00:27Z",
+            "content": "Apple könnte sich kommendes Jahr für kapazitive Knöpfe bei den Pro-Modellen entscheiden, die mal eine Weile für das iPhone 15 Pro im Raum standen. Doch auch das normale iPhone 16 wird wohl einen solc… [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Булат Кармак",
+            "title": "Как легко проверить, оригинальные у вас Apple Watch или подделка",
+            "description": "Обозреватель Известий Иван Черноусов поделился советами, которые помогут отличить настоящие Apple Watch от подделок.",
+            "url": "https://www.ferra.ru/news/techlife/kak-legko-proverit-originalnye-u-vas-apple-watch-ili-poddelka-25-09-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/09/25/15/6151262/900eea256895f029034b238e9b475b0376816448.jpeg",
+            "publishedAt": "2023-09-26T04:33:54Z",
+            "content": ", . , , .\r\n . , Siri.\r\n , . « Apple Watch \"\" Apple. , », .\r\n , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adslzone.net"
+            },
+            "author": "Carlos Zapatero",
+            "title": "Busca esto en Netflix y convierte tu salón en un gimnasio",
+            "description": "La pandemia y las nuevas tecnologías han supuesto un cambio de inflexión a la hora llevar a cabo nuestros entrenamientos en el hogar. Cada vez existen más opciones para poder planificar nuestra rutina de entrenamientos desde nuestro salón. Una de las más dest…",
+            "url": "https://www.adslzone.net/noticias/streaming-tv/netflix-nike-entrenamientos/",
+            "urlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2023/09/pcpal-netflix.nike_.jpg",
+            "publishedAt": "2023-09-26T05:00:17Z",
+            "content": "Cada vez son más las personas que apuestan por mantenerse en forma en su día a día por medio de la práctica deportiva. Si bien es cierto que no siempre encontramos el momento adecuado para ir al gimn… [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nu.nl"
+            },
+            "author": "Rutger Otto",
+            "title": "Apple-topman Tim Cook bezoekt Eindhovense chipmaker: 'Zij zijn heel belangrijk'",
+            "description": "Apple-directeur Tim Cook bracht maandag in het geheim een bezoek aan chipmaker NXP in Eindhoven. NU.nl was erbij. De bijeenkomst ging onder meer over de toekomst van NFC-chips, het belang van Europa voor Apple en de klimaatdoelen van het bedrijf.",
+            "url": "https://www.nu.nl/tech/6282537/apple-topman-tim-cook-bezoekt-eindhovense-chipmaker-zij-zijn-heel-belangrijk.html",
+            "urlToImage": "https://media.nu.nl/m/xg2xgz4ad328_wd1280/apple-topman-tim-cook-bezoekt-eindhovense-chipmaker-zij-zijn-heel-belangrijk.jpg",
+            "publishedAt": "2023-09-26T03:03:05Z",
+            "content": "Apple-directeur Tim Cook bracht maandag in het geheim een bezoek aan chipmaker NXP in Eindhoven. NU.nl was erbij. De bijeenkomst ging onder meer over de toekomst van NFC-chips, het belang van Europa … [+2975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Carlyriordan.com"
+            },
+            "author": "carly",
+            "title": "WEEK OF OUTFITS 9.26.23",
+            "description": "Only five days of outfits because we had the laziest weekend at home during this tropical storm! It was sort of cozy and we were sort of cooped up, so I stayed in leggings and various sweatshirts all weekend long. (Speaking of which, I’m trying to find the be…",
+            "url": "https://carlyriordan.com/week-of-outfits-9-26-23.html",
+            "urlToImage": null,
+            "publishedAt": "2023-09-26T00:00:33Z",
+            "content": "Only five days of outfits because we had the laziest weekend at home during this tropical storm! It was sort of cozy and we were sort of cooped up, so I stayed in leggings and various sweatshirts all… [+1311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foodgawker.com"
+            },
+            "author": "A baJillian Recipes",
+            "title": "Caramel Apple Trifle",
+            "description": "Fluffy cubes of apple cider-infused cake, caramel cheesecake filling, cinnamon-spiced apples, salted caramel, and toasted pecans!",
+            "url": "https://foodgawker.com/post/2023/09/25/1042673/",
+            "urlToImage": "https://foodgawker.com//photo.foodgawker.com/wp-content/uploads/2023/09/3916318.jpg",
+            "publishedAt": "2023-09-26T00:40:13Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "N-tv.de"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "Streuen und Planen: Fünf Tipps: So sinkt das Anlagerisiko bei ETFs",
+            "description": "Transparenz, niedrige Kosten: ETFs haben viele Vorteile. Doch auch mit ihnen können Anlegerinnen und Anleger Verluste machen. Wer einfache Tipps beherzigt, kann das Risiko allerdings deutlich senken.",
+            "url": "https://www.n-tv.de/ratgeber/Fuenf-Tipps-So-sinkt-das-Anlagerisiko-bei-ETFs-article24420499.html",
+            "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop24420055/571132736-cImg_16_9-w1200/Breit-streuen-und-nicht-zu-kurzfristig-planen-Damit-lasst-sich-das-Anlagerisiko-bei-ETFs-senken.jpg",
+            "publishedAt": "2023-09-26T05:13:34Z",
+            "content": "Transparenz, niedrige Kosten: ETFs haben viele Vorteile. Doch auch mit ihnen können Anlegerinnen und Anleger Verluste machen. Wer einfache Tipps beherzigt, kann das Risiko allerdings deutlich senken.… [+5050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Maria Diaz",
+            "title": "Roku's new Roku Express 4K bundle launches exclusively on Amazon",
+            "description": "The new bundle includes the Roku Express 4K and Voice Remote Pro for only $50.",
+            "url": "https://www.zdnet.com/home-and-office/home-entertainment/rokus-new-roku-express-4k-bundle-launches-exclusively-on-amazon/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/fac1936f55eecd3657d6e3a33f25ec5d42538652/2023/09/25/ab4410db-6f12-454c-814c-c3553523a5af/roku.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-09-26T04:00:26Z",
+            "content": "Roku\r\nIf you're in the market for an affordable streaming device with beautiful image quality, you're in luck. Just a week after Amazon announced preorders for two new Fire TV Sticks 4K, Roku announc… [+2275 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Von Gastautor Gabor Steingart (Berlin)",
+            "title": "Gastbeitrag von Gabor Steingart - Fünf goldene Regeln der Führung werden von Olaf Scholz hartnäckig ignoriert",
+            "description": "Bundeskanzler Scholz kämpft gegen sinkende Umfragewerte und innerparteiliche Kritik. Welche grundlegenden Führungsregeln er ignoriert und wie er das Ruder noch herumreißen könnte. Warum seine Kanzlerschaft auf der Kippe steht und was er von politischen Gigant…",
+            "url": "https://www.focus.de/politik/gastbeitrag-von-gabor-steingart-fuenf-regeln-der-fuehrung-werden-von-olaf-scholz-hartnaeckig-ignoriert_id_213070723.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_213064185/bundeskanzler-olaf-scholz.jpg?im=Crop%3D%280%2C37%2C780%2C389%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=9dcd7bec6fd5cdb4841dc3afbf631efccedaf3b51676a86747af1403a5c83fe5",
+            "publishedAt": "2023-09-26T05:53:01Z",
+            "content": "Bundeskanzler Scholz kämpft gegen sinkende Umfragewerte und innerparteiliche Kritik. Welche grundlegenden Führungsregeln er ignoriert und wie er das Ruder noch herumreißen könnte. Warum seine Kanzler… [+6150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "СтарыйДед",
+            "title": "OnePlus позаимствовал интерфейс Dynamic Island Apple для новых элементов управления записью экрана",
+            "description": "Отличием Apple Dynamic Island от версии OnePlus является то, что в последнем данная фишка работает только для функции записи экрана.",
+            "url": "https://overclockers.ru/blog/S_Miru_Po_Provodku/show/111338/oneplus-pozaimstvoval-interfejs-dynamic-island-apple-dlya-novyh-elementov-upravleniya-zapisju-ekrana",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/427458/422759_O.jpg",
+            "publishedAt": "2023-09-26T05:25:30Z",
+            "content": "OxygenOS 14, Android 14, OnePlus. , Dynamic Island, OnePlus.\r\n : , OxygenOS 14 - Apple. , , . , , . , iOS, .\r\nApple Dynamic Island iPhone. . OnePlus .\r\n, , Dynamic Island, OnePlus . , . , , Android 1… [+85 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Mexico eyes US energy exports from solar farm, chip supply chain role",
+            "description": "TAIPEI :Mexico's northern state of Sonora wants to export clean energy to California and Arizona from a massive new solar farm project and play a role in the chip supply chain given TSMC's $40 billion investment in Arizona, Sonora's governor said.The first ph…",
+            "url": "https://www.channelnewsasia.com/business/mexico-eyes-us-energy-exports-solar-farm-chip-supply-chain-role-3798581",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--aqv8SBnM--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-26t022707z_1_lynxmpej8p01w_rtroptp_3_taiwan-mexico.jpg?itok=qplYoNIt",
+            "publishedAt": "2023-09-26T02:27:07Z",
+            "content": "TAIPEI :Mexico's northern state of Sonora wants to export clean energy to California and Arizona from a massive new solar farm project and play a role in the chip supply chain given TSMC's $40 billio… [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Frédéric Lemaître",
+            "title": "« Si la Chine ne va pas très bien, nombre de Chinois ne vont pas mal du tout »",
+            "description": "Avec un taux de croissance prévu de 5 % en 2023, des investissements d’entreprises américaines et allemandes (Starbucks, BMW…) et un taux d’épargne élevé, la Chine de Xi Jinping ne présente pas que des signes apparents de crise, constate, dans sa chronique, F…",
+            "url": "https://www.lemonde.fr/idees/article/2023/09/26/si-la-chine-ne-va-pas-tres-bien-nombre-de-chinois-ne-vont-pas-mal-du-tout_6190981_3232.html",
+            "urlToImage": "https://img.lemde.fr/2023/09/22/0/0/5500/3666/1440/960/60/0/d1769c3_2023-09-22t031136z-919953929-rc2cd3arogxe-rtrmadp-3-apple-china.JPG",
+            "publishedAt": "2023-09-26T03:00:06Z",
+            "content": "Dimportants promoteurs immobiliers en défaut de paiement, des collectivités locales surendettées, un chômage des jeunes urbains officiellement supérieur à 21 % Léconomie chinoise a, de toute évidence… [+2552 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Chris Smith",
+            "title": "Your titanium iPhone 15 Pro might need a protective case after all",
+            "description": "I did not upgrade to the iPhone 15 this year. My iPhone 14 Pro is nearly identical to the base iPhone 15, anyway. But the …\nThe post Your titanium iPhone 15 Pro might need a protective case after all appeared first on BGR.",
+            "url": "https://bgr.com/tech/your-titanium-iphone-15-pro-might-need-a-protective-case-after-all/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-rear-glass-damage.jpg?quality=82&strip=all",
+            "publishedAt": "2023-09-26T01:05:00Z",
+            "content": "I did not upgrade to the iPhone 15 this year. My iPhone 14 Pro is nearly identical to the base iPhone 15, anyway. But the new iPhone models do have a few exciting features that I want from a future i… [+3594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livedoor.jp"
+            },
+            "author": "rbkyn844",
+            "title": "【衝撃】iPhone15 Proさん。「原神」をプレイするとあっという間にアチアチになりカクカクに",
+            "description": "【衝撃】iPhone15 Proさん。「原神」をプレイするとあっという間にアチアチになりカクカクに\n\nvar microadCompass = microadCompass || {};\nmicroadCompass.queue = microadCompass.queue || [];\n\n\n\n\nmicroadCompass.queue.push({\n\"spot\": \"11cf97bbd364c255a1c676272a...",
+            "url": "http://blog.livedoor.jp/rbkyn844/archives/10438485.html",
+            "urlToImage": "https://livedoor.blogimg.jp/rbkyn844/imgs/8/9/892c228a.jpg",
+            "publishedAt": "2023-09-26T01:12:26Z",
+            "content": ": https://nova.5ch.net/test/read.cgi/livegalileo/1695686758/ \r\n1: 2023/09/26() 09:05:58.43 ID:st89awcT0\r\niPhone 15 Prohttps://t.co/LT8EUgXwvb\r\n Kaz / Gaz:Log (@gazlog_blog) September 25, 2023\r\n4: 202… [+1863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insurance Journal"
+            },
+            "author": "Admin",
+            "title": "OpenAI CEO: Possible to Get Regulation Wrong, but Should Not Fear it",
+            "description": "The CEO of ChatGPT maker OpenAI said on Monday that it was possible to get regulation wrong but it is important and should not be feared, amid global concerns about rapid advances in artificial intelligence, or AI. Many countries are …",
+            "url": "https://www.insurancejournal.com/news/national/2023/09/26/741577.htm",
+            "urlToImage": "https://www.insurancejournal.com/app/uploads/2023/08/AI-photo.jpg",
+            "publishedAt": "2023-09-26T05:08:13Z",
+            "content": "The CEO of ChatGPT maker OpenAI said on Monday that it was possible to get regulation wrong but it is important and should not be feared, amid global concerns about rapid advances in artificial intel… [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bright.nl"
+            },
+            "author": null,
+            "title": "Huawei komt met nieuwe EV: 'We gaan de Tesla Model S overtreffen'",
+            "description": "Het Chinese merk Huawei staat bekend om zijn smartphones, maar het breidt zijn rol op de automarkt nu ook steeds verder uit. De techreus komt binnenkort samen met de automaker Chery onder het nieuwe merk Luxeed met een elektrische coupé-SUV.",
+            "url": "https://www.bright.nl/news/1153992/huawei-komt-met-nieuwe-ev-we-gaan-de-tesla-model-s-overtreffen.html",
+            "urlToImage": "https://br.cdn.pxr.nl/news/2023/09/26/64d5af9917644a8c641025b387bd136383a2c386.jpg",
+            "publishedAt": "2023-09-26T05:16:01Z",
+            "content": "Het Chinese merk Huawei staat bekend om zijn smartphones, maar het breidt zijn rol op de automarkt nu ook steeds verder uit. De techreus komt binnenkort samen met de automaker Chery onder het nieuwe … [+2162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "Идея Евросоюза провалилась: Apple запрещает заряжать iPhone 15 кабелем от Android",
+            "description": "Ряд фирменных магазинов Apple в Китае выпустил предупреждение, в котором запрещается заряжать новые смартфоны кабелями USB-C от устройств на Android.",
+            "url": "https://rg.ru/2023/09/26/ideia-evrosoiuza-provalilas-apple-zapreshchaet-zariazhat-iphone-15-kabelem-ot-android.html",
+            "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/03/23/1-27_e3a_ff5.jpeg",
+            "publishedAt": "2023-09-26T04:38:06Z",
+            "content": ", iPhone 15. , USB-C iPhone Android-. , - Android Apple .\r\n , - Apple, . , .\r\n , \"\" , USB-C . Apple USB-C , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applelinkage.com"
+            },
+            "author": "Al",
+            "title": "「iPhone 16」シリーズは「キャプチャボタン」を搭載",
+            "description": "MacRumorsが、「iPhone 16」シリーズにはApple内部で「Capture Button」（キャプチャボタン）と呼ばれる静電容量ボタンが追加されるようだと伝えています。 サイドボタンの下に追加されるキャプチ … 続きを読む 「iPhone 16」シリーズは「キャプチャボタン」を搭載 →",
+            "url": "https://www.applelinkage.com/2023/09/26/iphone-16-to-feature-capture-button/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-26T00:01:01Z",
+            "content": "MacRumorsiPhone 16AppleCapture Button\r\niPhone 16\r\niPhone 16iPhone 12Pro6.36.9"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld.dk"
+            },
+            "author": "Dan Jensen",
+            "title": "Stor opdatering: Nu kan du føre samtaler med ChatGPT - indfører talefunktion",
+            "description": "OpenAI er klar med stor opdatering til ChatGPT, der vil gøre det muligt at tale med den revolutionerende AI.",
+            "url": "https://www.computerworld.dk/art/284441/stor-opdatering-nu-kan-du-foere-samtaler-med-chatgpt-indfoerer-talefunktion",
+            "urlToImage": "https://www.computerworld.dk/fil/208531?width=600&height=315&focus=1",
+            "publishedAt": "2023-09-26T04:34:00Z",
+            "content": "OpenAI er klar med stor opdatering til ChatGPT, der vil gøre det muligt at tale med den revolutionerende AI.Annonceindlæg fra NovatarisSådan understøtter Fibias IT-arkitektur deres vækstrejse\r\nAI-sel… [+1400 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Doctorofcredit.com"
+            },
+            "author": "Chuck",
+            "title": "Amazon: Apple iPad (10th Generation – 2022) for $379.99",
+            "description": "Amazon is selling the Apple 2022 10.9-inch iPad (Wi-Fi, 64GB) – for $379.99. Blue color only. \nCompare on Apple for $449",
+            "url": "https://www.doctorofcredit.com/amazon-apple-ipad-10th-generation-2022-for-379-99-2/",
+            "urlToImage": "https://www.doctorofcredit.com/wp-content/uploads/2019/11/ipad.png",
+            "publishedAt": "2023-09-26T03:42:51Z",
+            "content": "You can help support this site by using our links to Amazon &amp; eBay.\r\nAs an Amazon Associate I earn from qualifying purchases. Keep in mind that if you do use our links, you wont be able to earn c… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ithome.com"
+            },
+            "author": null,
+            "title": "苹果 iPhone 用户反馈升级 iOS 17 后，重新打开“重要地点”选项",
+            "description": "IT之家 9 月 26 日消息，国外科技媒体 9to5Mac 推荐，iPhone 用户在升级 iOS 17 系统之后，需要检查“重要地点”选项是否已重新打开。不少用户反馈，在禁用状态下升级 iOS 17 后，会重新打开该“重要地点”选项。iOS 开发者 @mysk_co 在推文中表示，在升级 iOS 17 之后，会重新打开“重要地点”和“iPhone Analytics”选项。苹果官方随后向该媒体确认，理论上升级 iOS 17 更新之后，不应该更改这些选项，公司目前正在调查这个问题，并重申了对用户隐私的承诺。IT…",
+            "url": "https://www.ithome.com/0/721/695.htm",
+            "urlToImage": null,
+            "publishedAt": "2023-09-26T03:03:31Z",
+            "content": "IT 9 26 9to5Mac iPhone iOS 17 iOS 17 \r\niOS @mysk_co iOS 17 iPhone Analytics\r\niOS 17 \r\nIT\r\n App  \r\n Apple \r\n &gt;&gt;&gt;\r\nIT"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nirmaltv.com"
+            },
+            "author": "Nirmal",
+            "title": "How to Configure Action Button on iPhone 15 Pro",
+            "description": "Apple has launched the latest generation of iPhones which includes the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max. The Pro variants of the iPhone 15 series have a new feature, in fact, a new hardware feature called the Action Button. Prev…",
+            "url": "https://www.nirmaltv.com/2023/09/26/how-to-configure-action-button-on-iphone-15-pro/",
+            "urlToImage": "https://cdn.nirmaltv.com/images/230918152236-iphone-15-pro-actio.jpg",
+            "publishedAt": "2023-09-26T02:12:37Z",
+            "content": "Apple has launched the latest generation of iPhones which includes the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max. The Pro variants of the iPhone 15 series have a new feature, in… [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arigato-ipod.com"
+            },
+            "author": "Ygn",
+            "title": "【ニュース】Apple公式マニュアル「iPadユーザガイド」が、iPadOS 17に対応",
+            "description": "Apple公式サイトで公開されている「iPadユーザガイド」日本語版が更新されています。 iPadの使い方を解説する、Webブラウザで読める公式マニュアルです。 内容がiOS 17向けになっています。 ロック画面のカスタ...\nThe post 【ニュース】Apple公式マニュアル「iPadユーザガイド」が、iPadOS 17に対応 first appeared on アイアリ.",
+            "url": "https://arigato-ipod.com/2023/09/ipad-user-guide-for-ipados-17.html",
+            "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/09/230926ipados17userguide.jpg",
+            "publishedAt": "2023-09-26T03:01:03Z",
+            "content": "Apple公式サイトで公開されている「iPadユーザガイド」日本語版が更新されています。\n\niPadの使い方を解説する、Webブラウザで読める公式マニュアルです。\n内容がiOS 17向けになっています。\nロック画面のカスタマイズや、新しく追加されたヘルスケアアプリなど、iPadOS 17の新機能も解説されています。\n\n公開ページ：iPadユーザガイド – Apple サポート\nApple公式マニ… [+163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Martin Klemrath",
+            "title": "Beim Vorläufer der Schallplatte landeten die Töne auf einem Zylinder",
+            "description": "1877 gelang es Thomas Edison, Töne auf eine Nadel zu übertragen. Diese ritzte die Schallwellen in eine sich drehende Walze. Auf solch einer Röhre ist die einzige Tonaufnahme des deutschen Reichskanzlers Bismarck erhalten – die mit einer weitverbreiteten Legen…",
+            "url": "https://www.welt.de/geschichte/article247168314/Edisons-Phonograph-Beim-Vorlaeufer-der-Schallplatte-landeten-die-Toene-auf-einem-Zylinder.html",
+            "urlToImage": "https://img.welt.de/img/geschichte/mobile247170442/8221354097-ci16x9-w1200/Thomas-Edison-by-Abraham-A-Anderson.jpg",
+            "publishedAt": "2023-09-26T05:22:06Z",
+            "content": "Schallwellen mit einer Nadel auf ein analoges Speichermedium ritzen und sie damit für die Nachwelt erhalten bei diesem Prinzip denken viele sofort an die Schallplatte, die auch im Streaming-Zeitalter… [+5777 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Windows 11 começa a liberar atualização nesta terça; veja as novidades e como atualizar",
+            "description": "Microsoft anunciou a chegada do Copilot, assistente parecido com o ChatGPT para realizar ações a partir de mensagens de texto e de voz. Sistema também adotou inteligência artificial em programas como Paint. Microsoft Copilot é uma espécie de ChatGPT que inter…",
+            "url": "https://g1.globo.com/tecnologia/noticia/2023/09/26/windows-11-comeca-a-liberar-atualizacao-nesta-terca-veja-as-novidades-e-como-atualizar.ghtml",
+            "urlToImage": "https://s2-g1.glbimg.com/UxQ42XwY-q8pIXZUqPl82_g7MRk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/1/e/L54rJzQs69QgB491agEg/microsoft-copilot.jpg",
+            "publishedAt": "2023-09-26T03:01:05Z",
+            "content": "O pacote de novidades inclui um recurso que ajuda a criar imagens no Paint e uma opção de fazer o que está escrito em um print se transformar em texto para ser compartilhado em outros lugares. As fun… [+2818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prtimes.jp"
+            },
+            "author": null,
+            "title": "大人のためのクオリティ・ライフスタイル誌「LEON」× ビジュピコ × GOLDEN CONCEPT(ゴールデンコンセプト)の3社によるコラボレーションモデルが数量限定で発売。",
+            "description": "[株式会社PRINCIPE prive]\n[画像1: https://prtimes.jp/i/16079/499/resize/d16079-499-7c66983f10ad8bfc465b-0.jpg ]\n\n国内最大級のジュエリー・ブライダルジュエリーのセレクトショップ BIJOUPIKO(ビジュピコ)と、大人のためのクオリティ...",
+            "url": "https://prtimes.jp/main/html/rd/p/000000499.000016079.html",
+            "urlToImage": "https://prtimes.jp/i/16079/499/ogp/d16079-499-7c66983f10ad8bfc465b-0.jpg",
+            "publishedAt": "2023-09-26T00:30:00Z",
+            "content": "BIJOUPIKO()LEONGOLDEN CONCEPT()3\r\nRST45 LEON Anniversary Limited Edition8×2\r\nLEON 22RST45 LEON Anniversary Limited Edition\r\nhttps://goldenconcept.jp\r\nBIJOUPIKO()\r\nBIJOUPIKO()GOLDEN CONCEPT( )\r\n222122… [+664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prtimes.jp"
+            },
+            "author": null,
+            "title": "音楽配信代行サービス「narasu（ナラス）」、韓国の大手音楽ストリーミングサービス『FLO』に楽曲提供開始！",
+            "description": "[株式会社ローディアム]\nFLOについて\n\n\n[画像1: https://prtimes.jp/i/70277/35/resize/d70277-35-fe17e06e2f3a60237928-0.png ]\n\nFLO：https://www.music-flo.com/\n配信形式：ストリーミング\n主な配信国：韓国\n本拠地：韓国\n\nFLOはDream...",
+            "url": "https://prtimes.jp/main/html/rd/p/000000035.000070277.html",
+            "urlToImage": "https://prtimes.jp/i/70277/35/ogp/d70277-35-fe17e06e2f3a60237928-0.png",
+            "publishedAt": "2023-09-26T03:40:03Z",
+            "content": "FLOhttps://www.music-flo.com/\r\nFLODreamus Company\r\n6,000112,000\r\n80021015\r\nAI\r\nnarasu18041\r\nhttps://narasu.jp/client/static/store-detail\r\nSpotifyApple Music\r\n2111\r\n YouTubeYouTube\r\n50\r\nVOCALOID\r\nhttp… [+556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prtimes.jp"
+            },
+            "author": null,
+            "title": "LA発！The Pie Hole Los Angeles エキュート大宮にて初POP UP開催！",
+            "description": "[エフエス]\n[画像1: https://prtimes.jp/i/10204/150/resize/d10204-150-ee36811b979f968c38fb-3.jpg ]\n\n■ポップアップ開催概要\n\n【開催期間】 2023年9月25日（月）～10月9日（月）\n【開催場所】 エキュート大宮 \n【営業時間...",
+            "url": "https://prtimes.jp/main/html/rd/p/000000150.000010204.html",
+            "urlToImage": "https://prtimes.jp/i/10204/150/ogp/d10204-150-ee36811b979f968c38fb-3.jpg",
+            "publishedAt": "2023-09-26T04:40:02Z",
+            "content": "2023925109\r\n 9:3022:009:3021:00\r\n                  20:30\r\nSweet\r\nMoms apple crumble\r\nMoms cherry double crust\r\nChocolate brownie \r\nEarl gery tea \r\nKey lime\r\nMontblanc\r\nPecan nuts\r\nSalted honey custar… [+1252 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "胡冠廷",
+            "title": "蘋果iOS 17爆隱私爭議！2設定「未經允許自動開啟」恐洩個資，手把手教你5步驟關閉",
+            "description": "Apple（蘋果）號稱最重視使用者的資料安全，也曾拍攝不少廣告強調此事。但在19日才正式發布的iOS 17的作業系統更新後，卻出現重大爭議...",
+            "url": "https://www.storm.mg/lifestyle/4874675",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2023/09/13/20230913-104731_U1085_M887794_092e.jpg?itok=7u4xFHuG",
+            "publishedAt": "2023-09-26T03:36:57Z",
+            "content": "Apple19iOS 17iOSMyskiPhone9to5Mac\r\n[LINE] \r\nMyskXTwitteriOSiPhoneiPhoneiOS 17iPhone\r\n9to5MaciOS 17Apple investigating after some users claim iOS 17 reset privacy settingsMyskiPhoneMysk\r\niPhone\r\n9to5M… [+13 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newmobilelife.com"
+            },
+            "author": "Willie",
+            "title": "iOS 17 恐重設 iPhone 部分隱私設定",
+            "description": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1695701080822\"} -->\n對於自身隱私有所追求者，可能會選擇關閉部分 iPhone 功能，不過資安研究人員 Mysk 指出，，一些設備若安裝 iOS 17，會自動啟用 2 項定位功能，增加裝置定位數據暴露的風險。\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":490748,\"sizeSlug\":\"large\",\"linkDestin…",
+            "url": "https://www.newmobilelife.com/2023/09/26/ios-17-may-reset-some-iphones-privacy-settings/",
+            "urlToImage": "https://static.newmobilelife.com/wp-content/uploads/2023/09/iOS-17-Location.jpg",
+            "publishedAt": "2023-09-26T04:39:16Z",
+            "content": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1695701080822\"} -->\n對於自身隱私有所追求者，可能會選擇關閉部分 iPhone 功能，不過資安研究人員 Mysk 指出，，一些設備若安裝 iOS 17，會自動啟用 2 項定位功能，增加裝置定位數據暴露的風險。\n<!-- /wp:paragraph --… [+883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Robb Report"
+            },
+            "author": "Demetrius Simms",
+            "title": "Usher’s Gold AP Royal Oak Steals the Show in a Super Bowl Halftime Show Video Mashup",
+            "description": "The stylish Perpetual Calendar watch houses a skeletonized dial and an automatic movement.",
+            "url": "https://robbreport.com/style/watch-collector/usher-wears-audemars-piguet-in-super-bowl-video-1235028313/",
+            "urlToImage": "https://robbreport.com/wp-content/uploads/2023/09/Usher_APSplit.jpg?w=681&h=383&crop=1",
+            "publishedAt": "2023-09-26T00:00:00Z",
+            "content": "Get ready to say “Yeah” during the 2024 Super Bowl LVIII Halftime Show. \r\nGrammy-winning singer Usher is now slated to perform at the game’s annual concert on February 11, 2024. The streaming platfor… [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsphiladelphia.com"
+            },
+            "author": "NBC Sports Philadelphia",
+            "title": "Couturier returns but Atkinson doesn't as Flyers are rolled in preseason opener",
+            "description": "Sean Couturier returned, Cam Atkinson didn't and the Flyers lost badly in their preseason opener to the Devils.",
+            "url": "https://www.nbcsportsphiladelphia.com/nhl/philadelphia-flyers/flyers-vs-devils-sean-couturier-returns-but-injured-cam-atkinson-doesnt-in-preseason-loss/537504/?partner=yahoo",
+            "urlToImage": "https://media.zenfs.com/en/csnphilly.com/981b8c49fb265cd7ad055fe1aba48c69",
+            "publishedAt": "2023-09-26T03:11:58Z",
+            "content": "Couturier returns but Atkinson doesn't as Flyers are rolled in preseason opener originally appeared on NBC Sports Philadelphia\r\nNEWARK, N.J. The preseason opener wasn't pretty for the Flyers.\r\nThey w… [+5893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mercola.com"
+            },
+            "author": "Dr. Mercola",
+            "title": "Is Wireless Charging Safe?",
+            "description": "Editor’s Note: This article is a reprint. It was originally published October 17, 2018.\n\nThe Apple iPhone turned 10 in 2018, and in those short 10 years lives were significantly changed by smartphones. According to Pew Research Center,1 nearly 77% of U.S. adu…",
+            "url": "https://articles.mercola.com/sites/articles/archive/2023/09/26/is-wireless-charging-harmful-to-health.aspx",
+            "urlToImage": "https://media.mercola.com/ImageServer/Public/2023/September/FB/is-wireless-charging-harmful-to-your-health-fb.jpg",
+            "publishedAt": "2023-09-26T00:00:00Z",
+            "content": "Mercola proudly supports these charities and organizations. View All \r\nDisclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a… [+1007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Does the iPhone 15 Have an Overheating Problem?",
+            "description": "Some early adopters of Apple's iPhone 15 have taken to social media to complain about overheating issues. Digital Trends' Bryan Wolfe writes: Over the past few days, various user complaints have popped up online by iPhone 15 owners saying their new devices ar…",
+            "url": "https://apple.slashdot.org/story/23/09/25/2212232/does-the-iphone-15-have-an-overheating-problem",
+            "urlToImage": "https://a.fsdn.com/sd/topics/iphone_64.png",
+            "publishedAt": "2023-09-26T00:02:00Z",
+            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Letemsvetemapplem.eu"
+            },
+            "author": "Amaya Tomanová",
+            "title": "O tomhle určitě nevíte! Na iPhonu si můžete nově nastavit hned dva vyhledávače zároveň",
+            "description": "John Giannandrea, senior viceprezident společnosti Apple pro strategii strojového učení a umělé inteligence, minulý týden vystoupil jako svědek v probíhající antimonopolní žalobě ministerstva spravedlnosti proti společnosti Google. Během své výpovědi Giannand…",
+            "url": "https://www.letemsvetemapplem.eu/2023/09/26/o-tomhle-urcite-nevite-na-iphonu-si-muzete-nove-nastavit-hned-dva-vyhledavace-zaroven/",
+            "urlToImage": "https://www.letemsvetemapplem.eu/wp-content/uploads/2023/09/iOS-17-zmena-vyhledavace-1.png",
+            "publishedAt": "2023-09-26T06:00:49Z",
+            "content": "John Giannandrea, senior viceprezident spolenosti Apple pro strategii strojového uení a umlé inteligence, minulý týden vystoupil jako svdek v probíhající antimonopolní alob ministerstva spravedlnosti… [+1879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Softantenna.com"
+            },
+            "author": "softantenna",
+            "title": "Appleの iPhone 15用「FineWoven」ケースに問題あり？",
+            "description": "AppleはiPhone 15シリーズ用に、環境に配慮した新素材を採用した「FineWoven」ケースを開発しました。 FineWovenケースは従来のレザーケースを置き換えるものとして期待を集めていますが、発売直後の現段階ですでにいくつか",
+            "url": "https://softantenna.com/blog/iphone-15-fine-woven-case/",
+            "urlToImage": "https://softantenna.com/blog/wp-content/uploads/2023/09/finewoven-iphone-15-1-1.jpg",
+            "publishedAt": "2023-09-26T01:03:05Z",
+            "content": "AppleiPhone 15FineWoven\r\nFineWoven(9to5Mac)\r\nFineWoveniPhone 15 Pro Max48\r\nUSB-CUSB-CAppleUSB-CFineWovenFineWoven\r\n9to5MacAppleFineWoveniPhone 15"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Belloflostsouls.net"
+            },
+            "author": "Larry Vela",
+            "title": "Tabletop: BCP Announces New Apps On the Way",
+            "description": "Best Coast Pairing has big updates, and new apps on the way. If you are a user, check out what is coming very soon. Greetings Gamers! The Best Coast Pairings team is here to share an update with you about the BCP Organized Play System. via BCP: “Eight years a…",
+            "url": "https://www.belloflostsouls.net/2023/09/tabletop-bcp-announces-new-apps-on-the-way.html",
+            "urlToImage": "https://www.belloflostsouls.net/wp-content/uploads/2023/09/BCP-2023-header.jpg",
+            "publishedAt": "2023-09-26T00:00:53Z",
+            "content": "Best Coast Pairing has big updates, and new apps on the way. If you are a user, check out what is coming very soon.\r\nGreetings Gamers! The Best Coast Pairings team is here to share an update with you… [+5234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Imagazine.pl"
+            },
+            "author": "Krzysztof Kołacz",
+            "title": "Apple bada sprawę zresetowania przez iOS 17 ustawień prywatności",
+            "description": "Po aktualizacji do iOS 17 niektórzy użytkownicy iPhone’ów doświadczają zmiany swoich istniejących ustawień prywatności – bez ich zgody. Apple twierdzi, że bada te raporty. W poście Twitterze/X para programistów iOS zainteresowanych badaniami nad bezpieczeństw…",
+            "url": "https://imagazine.pl/2023/09/26/apple-bada-sprawe-zresetowania-przez-ios-17-ustawien-prywatnosci/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-26T05:37:45Z",
+            "content": "Po aktualizacji do iOS 17 niektórzy uytkownicy iPhone’ów dowiadczaj zmiany swoich istniejcych ustawie prywatnoci bez ich zgody.\r\nApple twierdzi, e bada te raporty. W pocie Twitterze/X para programist… [+619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minatokobe.com"
+            },
+            "author": "酔いどれ",
+            "title": "Appleのファインウーブン論争：持続可能性と品質のバランス",
+            "description": "Appleは、最近、iPhoneケースの素材を革製品からファインウーブンに移行することを決定し、大きな話題となりました。この転換は、環境に配慮したものではありますが、ファインウーブンケースの耐久性と品質に関する顧客からの苦情が相次ぐきっかけとなりました。 ファインウーブン論争 Appleが小売店の従業員に宛てた社内メモが、ファインウーブン素材に対する同社の姿勢を明らかにしています。メモでは、ファインウーブン素材の高級感を強調し、「ソフトでありながら耐久性のあるスエードのような質感を持つ、高級感のあるマイクロツイル…",
+            "url": "https://minatokobe.com/wp/apple/post-92780.html",
+            "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/09/FineWoven-Case.jpg",
+            "publishedAt": "2023-09-26T04:56:57Z",
+            "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minatokobe.com"
+            },
+            "author": "酔いどれ",
+            "title": "ポッドキャストの革命: Apple Musicラジオ番組とのシームレスな統合",
+            "description": "iOS 17の導入に伴い、AppleはPodcastアプリのインターフェースを刷新しました。この新しいインターフェイスは、単なる美しさだけでなく、ユーザーのPodcastとの関わり方を再定義するような多数の機能をもたらします。 iOSにおけるPodcastの新時代 iOS 17のPodcastアプリは、新鮮な「Now Playing」画面、充実した検索フィルター、改善された「Up Next」体験を誇ります。しかし、今回のアップデートの目玉は、Apple Musicのラジオ番組がApple Podcastアプリに直…",
+            "url": "https://minatokobe.com/wp/apple/post-92777.html",
+            "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/09/Apple-Music-Podcast.jpg",
+            "publishedAt": "2023-09-26T03:10:49Z",
+            "content": "iOS 17ApplePodcastPodcast\r\niOSPodcast\r\niOS 17PodcastNow PlayingUp NextApple MusicApple Podcast\r\nPodcastApple Music\r\niOS 17PodcastApple Podcast\r\niOS 17APIApple PodcastApple PodcastPodcast\r\nAPIAppleApp… [+154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minatokobe.com"
+            },
+            "author": "酔いどれ",
+            "title": "日本時間:9月27日にリリースされるmacOS Sonomaのレビューが公開されています",
+            "description": "macOS Sonomaは9月26日（日本時間:9月27日）にリリースされます、ここ数年で最速のmacOSアップデートは、古い問題を修正しない一方、機能も軽めです。 とはいえ、Macのあらゆる基盤を刷新するmacOS Big Surのようなシステムを期待してはいけませんが、これはユーザーのMac体験を洗練させるmacOS High Sierraのようなアップデートではありません。このアップデートが提供するものをBGRが詳しく分析しています 主な機能と懸念事項 美的機能強化 macOS Sonomaの見た目は、これ…",
+            "url": "https://minatokobe.com/wp/os-x/macos-sonoma/post-92774.html",
+            "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/09/macOS-Sonoma-review_01.jpg",
+            "publishedAt": "2023-09-26T01:38:52Z",
+            "content": "macOS Sonoma926:927macOS\r\nMacmacOS Big SurMacmacOS High SierraBGR\r\nmacOS SonomaMaciPhoneiPadAppleMac\r\niPadOS 17AppleMacApple TV\r\nmacOS SonomaSonoma HorizonApple TV\r\nMacWindowsAppleSonomaiPhoneiPadMac… [+909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minatokobe.com"
+            },
+            "author": "酔いどれ",
+            "title": "OpenAIのChatGPTの進化：テキストを超えて、音声と画像のインタラクションへ",
+            "description": "画期的な発表として、OpenAIは有名なChatGPTプラットフォームの新機能を発表しました。これらの機能強化により、ユーザーはテキストだけでなく、画像や音声コマンドを使用してチャットボットと対話できるようになります。 1. 高度な機能へのアクセシビリティの拡大 OpenAIは、今後2週間で、ChatGPT PlusとEnterpriseのユーザーがこれらの革新的な機能にアクセスできるようになると発表しました。 音声機能は、オプトイン方式ではありますが、iOSとAndroidデバイスの両方で利用できるようになりま…",
+            "url": "https://minatokobe.com/wp/ai/ai-tools/post-92766.html",
+            "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/09/OpenAI-Speak.jpg",
+            "publishedAt": "2023-09-26T00:19:11Z",
+            "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeklawblog.com"
+            },
+            "author": "Greg Lambert and Marlene Gebauer",
+            "title": "Thomas Suh and Ken Block on How LegalMation is Revolutionizing Litigation Efficiency (TGIR Ep. 222)",
+            "description": "On this episode of The Geek in Review, hosts Marlene Gebauer and Greg Lambert interview Thomas Suh, Founder and CEO, and Ken Block, Senior Account Executive of ⁠LegalMation⁠. The company provides AI-powered tools to help litigators automate repetitive tasks a…",
+            "url": "https://www.geeklawblog.com/2023/09/thomas-suh-and-ken-block-on-how-legalmation-is-revolutionizing-litigation-efficiency-tgir-ep-222.html",
+            "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/644/638/Klp7yZbnLzXLNdWAz3jOX9rmG/ded38321dd958ca6ad9b7e5ab819fea6d2779621.png",
+            "publishedAt": "2023-09-26T03:01:46Z",
+            "content": "On this episode of The Geek in Review, hosts Marlene Gebauer and Greg Lambert interview Thomas Suh, Founder and CEO, and Ken Block, Senior Account Executive of LegalMation. The company provides AI-po… [+77004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Letemsvetemapplem.eu"
+            },
+            "author": "Jiří Filip",
+            "title": "První rozebrání Apple Watch Series 9 a Ultra 2 je tu! Co odhaluje?",
+            "description": "Apple Watch Series 9 a Ultra 2 nejenže vypadají stejně jako předešlé generace, ale jsou de facto jejich přesnými kopiemi i zevnitř. Tak přesně takto by se dalo s trochou nadsázky popsat zjištění společnosti iFixit zaměřující se na opravy elektroniky z dílny c…",
+            "url": "https://www.letemsvetemapplem.eu/2023/09/26/prvni-rozebrani-apple-watch-series-9-a-ultra-2-je-tu-co-odhaluje/",
+            "urlToImage": "https://www.letemsvetemapplem.eu/wp-content/uploads/2023/09/Apple-Watch-9-unboxing-26.jpg",
+            "publishedAt": "2023-09-26T04:00:17Z",
+            "content": "Apple Watch Series 9 a Ultra 2 nejene vypadají stejn jako pedelé generace, ale jsou de facto jejich pesnými kopiemi i zevnit. Tak pesn takto by se dalo s trochou nadsázky popsat zjitní spolenosti iFi… [+802 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apfelpage.de"
+            },
+            "author": "Fabian Schwarzenbach",
+            "title": "iOS 17 verletzt Privatsphäre | Magere Gehaltserhöhung für Apple Store-Mitarbeiter | Beeindruckender U2-Chip im neuen iPhone – Daybreak",
+            "description": "Guten Morgen und willkommen zum Daybreak. Gestern haben wir über automatisch veränderte Umstellungen unter iOS 17 bezüglich der Privatsphäre, zähe Gehaltsverhandlungen bei Apple Store-Mitarbeitern und den neuen U2-Chip im iPhone 15 berichtet. Außerdem gibt […]",
+            "url": "https://www.apfelpage.de/news/ios-17-verletzt-privatsphaere-magere-gehaltserhoehung-fuer-apple-store-mitarbeiter-beeindruckender-u2-chip-im-neuen-iphone-daybreak/",
+            "urlToImage": "https://www.apfelpage.de/wp-content/uploads/2021/01/DayBreak.png",
+            "publishedAt": "2023-09-26T04:00:16Z",
+            "content": "Guten Morgen und willkommen zum Daybreak. Gestern haben wir über automatisch veränderte Umstellungen unter iOS 17 bezüglich der Privatsphäre, zähe Gehaltsverhandlungen bei Apple Store-Mitarbeitern un… [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Giga"
+            },
+            "author": "Martin Hartmann",
+            "title": "War’s das für PlayStation und Xbox? Apple offenbart Konsolen-Killer",
+            "description": "Auch in dieser Konsolen-Generation streiten sich PlayStation und Xbox wieder um den Thron. Jetzt taucht aber ein ganz neuer Konkurrent auf: Apple will mit dem neuen iPhone sogar die „beste Gaming-Konsole“ auf den Markt bringen.",
+            "url": "https://www.giga.de/news/war-s-das-fuer-playstation-und-xbox-apple-offenbart-konsolen-killer-xyz/",
+            "urlToImage": "https://crops.giga.de/63/4b/d5/065e0b92071d8dfeb9d527ef8f_YyAyODIweDE0NzQrOTArMTA4AnJlIDEyMDAgNjI3AzZiMGU5NzhlZDc4.jpg",
+            "publishedAt": "2023-09-26T06:00:06Z",
+            "content": "Auch in dieser Konsolen-Generation streiten sich PlayStation und Xbox wieder um den Thron. Jetzt taucht aber ein ganz neuer Konkurrent auf: Apple will mit dem neuen iPhone sogar die „beste Gaming-Kon… [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David Propper",
+            "title": "Ex-police chief’s Apple Watch called 911 after he was struck in fatal Vegas hit-and-run",
+            "description": "As the message continued to play on a loop, shocked bystanders were heard in the background, according to the audio.",
+            "url": "https://nypost.com/2023/09/26/apple-watch-called-911-after-ex-police-chief-andreas-probst-was-struck-in-fatal-vegas-hit-and-run/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-w140s2lij-1695700590771.jpg?quality=75&strip=all&1695686231&w=1024",
+            "publishedAt": "2023-09-26T04:10:57Z",
+            "content": "The Apple Watch worn by the retired police chief who was fatally mowed down while cycling in Las Vegas alerted authorities to the emergency — playing an alarming automated message as panic could be h… [+2893 chars]"
+        }
+    ]
+}
